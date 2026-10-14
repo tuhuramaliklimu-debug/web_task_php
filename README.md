@@ -7,6 +7,7 @@ A clean, green-themed PHP web application that allows users to sign up and view 
 ## 📸 Preview
 
 > A centered sign-up card with **Name**, **Age**, and **City** fields, followed by an **All Users** table showing all registered entries.
+> ![visul](image.png)
 
 ---
 
